@@ -1,10 +1,13 @@
 import ProductPage from "./ProductPage";
 import Currency from "./Currency";
+import Blogs from "./Blogs";
+
 function App() {
   return (
     <div className="App">
-      <Currency />
-      <ProductPage />
+      {/* <Currency /> */}
+      {/* <ProductPage /> */}
+      <Blogs />
     </div>
   );
 }

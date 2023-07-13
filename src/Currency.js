@@ -16,3 +16,7 @@ const Currency = () => {
 };
 
 export default Currency;
+
+// inside react component , useDispatch => state update
+// data fetching => start_loading_data
+//  
